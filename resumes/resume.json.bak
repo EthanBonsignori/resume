@@ -1,0 +1,125 @@
+{
+  "meta": {
+    "theme": "paper"
+  },
+  "basics": {
+    "name": "Ethan Bonsignori",
+    "label": "Web Developer",
+    "picture": "https://avatars3.githubusercontent.com/u/47482104?s=460&u=a8fbb1fe73832a210eaf92c72afef07cbd0b6154&v=4",
+    "email": "ebonsignori@gmail.com",
+    "phone": "(912) 507-3547",
+    "website": "https://ethanbon.com",
+    "summary": "A detail-oriented JavaScript developer with two years experience building web apps with a focus on clean code and best practices. Looking to join a team as a full-time developer.",
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "EthanBonsignori",
+        "url": "https://linkedin.com/in/ethanbonsignori/"
+      },
+      {
+        "network": "GitHub",
+        "username": "EthanBonsignori",
+        "url": "https://github.com/EthanBonsignori"
+      },
+      {
+        "network": "Portfolio & Blog",
+        "url": "https://ethanbon.com"
+      }
+    ]
+  },
+  "location": {
+    "address": "1061 Homewood Ct",
+    "postalCode": "GA 30033",
+    "city": "Atlanta",
+    "countryCode": "US",
+    "region": "Georgia"
+  },
+  "work": [
+    {
+      "company": "Dorsey Tire Co",
+      "position": "Web Developer",
+      "website": "",
+      "startDate": "2019-08-20",
+      "endDate": "2020-05-14",
+      "summary": "Worked with department managers to design and create web apps that would assist with day-to-day operations of their sector of the business.",
+      "highlights": [
+        "Created an inventory and notification utility to track expensive equipment and notify responsible parties of calibration due dates. Built custom table and wizard-style form with React.js for displaying and collecting data. Node.js and MongoDB backend."
+      ]
+    },
+    {
+      "company": "eBridge Club",
+      "position": "Creator",
+      "website": "https://github.com/ebridge/bridge-web",
+      "startDate": "2019-05-01",
+      "endDate": "2021-12-31",
+      "summary": "Personal Project still in active development. A user-friendly bridge website for ex-Pogo.com players to play free online multiplayer contract bridge.",
+      "highlights": [
+        "Leverages Next.js for React server-side rendering and Redux for handling game and site-wide state.",
+        "Build on an express server backend that utilizes both RESTful and socket patterns to support real-time chat and game events.",
+        "CSS in JS through Styled Components with a custom theme component for uniform styling across the app."
+      ]
+    },
+    {
+      "company": "Freelance",
+      "position": "Graphic Designer",
+      "website": "",
+      "startDate": "2012-01-01",
+      "endDate": "2016-12-01",
+      "summary": "Created promotional materials for local non-profits and businesses.",
+      "highlights": [
+        "Taught myself tools such as Adobe Illustrator and Adobe Photoshop.",
+        "Prepared me for Web Design."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Georgia Institute of Technology",
+      "area": "Fullstack Web Development",
+      "studyType": "Bootcamp",
+      "startDate": "2019-02-01",
+      "endDate": "2019-08-01",
+      "gpa": "4.0",
+      "courses": [
+        "Fullstack Flex Development"
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "name": "Web Development",
+      "level": "Mid",
+      "keywords": [
+        "Javascript",
+        "React",
+        "Redux",
+        "Node.js",
+        "Next.js",
+        "MongoDB",
+        "PostgreSQL",
+        "Styled Components",
+        "MaterialUI",
+        "Integration Testing",
+        "Mocha.js",
+        "Chai.js",
+        "Gitflow",
+        "HTML",
+        "CSS"
+      ]
+    },
+    {
+      "name": "Designer",
+      "level": "Freelance",
+      "keywords": [
+        "Adobe Photoshop",
+        "Adobe Illustrator"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "name": "Dustin Sparks",
+      "reference": "Taught the bootcamp I attended. Contact email: pixelmixer@gmail.com"
+    }
+  ]
+}

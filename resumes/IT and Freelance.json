@@ -1,0 +1,115 @@
+{
+  "meta": {
+    "theme": "paper"
+  },
+  "basics": {
+    "name": "Ethan Bonsignori",
+    "label": "Web Developer",
+    "picture": "https://i.imgur.com/k0Py8Ex.jpg?1",
+    "email": "ebonsignori@gmail.com",
+    "phone": "(912) 507-3547",
+    "website": "https://ethanbon.com",
+    "summary": "A detail-oriented web developer and IT Technician with a love for problem-solving and helping people.",
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "EthanBonsignori",
+        "url": "https://linkedin.com/in/ethanbonsignori/"
+      },
+      {
+        "network": "GitHub",
+        "username": "EthanBonsignori",
+        "url": "https://github.com/EthanBonsignori"
+      },
+      {
+        "network": "Portfolio & Blog",
+        "url": "https://ethanbon.com"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Dorsey Tire Co",
+      "position": "IT Tech & Web Developer",
+      "website": "http://dorseytire.com/",
+      "startDate": "8/2019",
+      "endDate": "5/2020",
+      "summary": "Handled IT requests via call and email. Worked with department managers to design and create web apps that would assist with day-to-day operations.",
+      "highlights": [
+        "Wrote step-by-step guides for new device setup as well as troubleshooting guides for common IT problems.",
+        "Created and managed several Excel spreadsheets that automated financial receipts and recurring monthly bills",
+        "Created an inventory and notification utility to track expensive equipment and notify responsible parties of calibration due dates. Built custom table and wizard-style form with React.js for displaying and collecting data."
+      ]
+    },
+    {
+      "company": "The Savannah Theatre Company",
+      "position": "Lightboard Operator",
+      "website": "http://savannahtheatre.com/",
+      "startDate": "5/2014",
+      "endDate": "7/2019",
+      "summary": "Spent several years in the Entertainment and Hospitality industry",
+      "highlights": [
+        "Programmed, troubleshot, and fixed complex stage lights.",
+        "Assisted patrons with any emergent issues."
+      ]
+    },
+    {
+      "company": "Freelance",
+      "position": "Graphic Designer",
+      "website": "",
+      "startDate": "1/2012",
+      "endDate": "1/2018",
+      "summary": "Created promotional materials for local non-profits and businesses.",
+      "highlights": [
+        "Taught myself tools such as Adobe Illustrator and Adobe Photoshop."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Georgia Institute of Technology",
+      "area": "Fullstack Web Development",
+      "studyType": "Bootcamp",
+      "startDate": "2/2019",
+      "endDate": "8/2019",
+      "courses": [
+        "Fullstack Flex Development"
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "name": "Web Development",
+      "keywords": [
+        "JavaScript",
+        "React.js",
+        "Node.js",
+        "Gitflow",
+        "HTML5",
+        "CSS3"
+      ]
+    },
+    {
+      "name": "Designer",
+      "level": "Freelance",
+      "keywords": [
+        "Adobe Photoshop",
+        "Adobe Illustrator"
+      ]
+    },
+    {
+      "name": "Other",
+      "keywords": [
+        "IT Support",
+        "Technical Writing",
+        "Communication"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "name": "Dustin Sparks",
+      "reference": "Taught the bootcamp I attended. Contact email: pixelmixer@gmail.com"
+    }
+  ]
+}
