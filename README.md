@@ -12,12 +12,12 @@ Open ```./node_modules/jsonresume-theme-paper/resume.template``` and edit handle
 **Export:**
 
 ```bash
-node node_modules/resume-cli/build/main.js export Resume-EthanBonsignori.pdf --theme paper;
+node node_modules/resume-cli/build/main.js export Resume-EthanBonsignori.pdf --theme paper
 ```
 
 **Serve:** (doesn't seem to work with custom template edits)
 ```bash
-node node_modules/resume-cli/build/main.js serve --theme paper;
+node node_modules/resume-cli/build/main.js serve --theme paper
 ```
 
 **Validate:**
