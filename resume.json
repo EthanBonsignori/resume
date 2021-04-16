@@ -5,11 +5,11 @@
   "basics": {
     "name": "Ethan Bonsignori",
     "label": "Web Developer",
-    "picture": "https://avatars3.githubusercontent.com/u/47482104?s=460&u=a8fbb1fe73832a210eaf92c72afef07cbd0b6154&v=4",
+    "picture": "https://i.imgur.com/k0Py8Ex.jpg?1",
     "email": "ebonsignori@gmail.com",
     "phone": "(912) 507-3547",
     "website": "https://ethanbon.com",
-    "summary": "A detail-oriented JavaScript developer with two years experience building web apps with a focus on clean code and best practices. Looking to join a team as a full-time developer.",
+    "summary": "A detail-oriented JavaScript developer with two years experience building web apps with a love for problem solving and learning.",
     "profiles": [
       {
         "network": "LinkedIn",
@@ -39,19 +39,20 @@
       "company": "Dorsey Tire Co",
       "position": "Web Developer",
       "website": "",
-      "startDate": "2019-08-20",
-      "endDate": "2020-05-14",
-      "summary": "Worked with department managers to design and create web apps that would assist with day-to-day operations of their sector of the business.",
+      "startDate": "8/2019",
+      "endDate": "5/2020",
+      "summary": "Worked with department managers to design and create web apps that would assist with day-to-day operations the business.",
       "highlights": [
-        "Created an inventory and notification utility to track expensive equipment and notify responsible parties of calibration due dates. Built custom table and wizard-style form with React.js for displaying and collecting data. Node.js and MongoDB backend."
+        "Created an inventory and notification utility to track expensive equipment and notify responsible parties of calibration due dates. Built custom table and wizard-style form with React.js for displaying and collecting data. Node.js and MongoDB backend.",
+        "Created and managed several Excel spreadsheets that automated financial receipts and recurring monthly bills"
       ]
     },
     {
       "company": "eBridge Club",
       "position": "Creator",
       "website": "https://github.com/ebridge/bridge-web",
-      "startDate": "2019-05-01",
-      "endDate": "2021-12-31",
+      "startDate": "05/2019",
+      "endDate": "2021",
       "summary": "Personal Project still in active development. A user-friendly bridge website for ex-Pogo.com players to play free online multiplayer contract bridge.",
       "highlights": [
         "Leverages Next.js for React server-side rendering and Redux for handling game and site-wide state.",
@@ -62,13 +63,12 @@
     {
       "company": "Freelance",
       "position": "Graphic Designer",
-      "website": "",
-      "startDate": "2012-01-01",
-      "endDate": "2016-12-01",
+      "website": "https://ethanbon.com/design",
+      "startDate": "1/2012",
+      "endDate": "1/2018",
       "summary": "Created promotional materials for local non-profits and businesses.",
       "highlights": [
-        "Taught myself tools such as Adobe Illustrator and Adobe Photoshop.",
-        "Prepared me for Web Design."
+        "Taught myself tools such as Adobe Illustrator and Adobe Photoshop."
       ]
     }
   ],
@@ -88,23 +88,19 @@
   "skills": [
     {
       "name": "Web Development",
-      "level": "Mid",
       "keywords": [
         "Javascript",
         "React",
-        "Redux",
         "Node.js",
-        "Next.js",
+        "Redux",
         "MongoDB",
+        "Next.js",
+        "GraphQL",
         "PostgreSQL",
-        "Styled Components",
-        "MaterialUI",
         "Integration Testing",
-        "Mocha.js",
-        "Chai.js",
         "Gitflow",
-        "HTML",
-        "CSS"
+        "HTML5",
+        "CSS3"
       ]
     },
     {
@@ -113,6 +109,14 @@
       "keywords": [
         "Adobe Photoshop",
         "Adobe Illustrator"
+      ]
+    },
+    {
+      "name": "Other",
+      "keywords": [
+        "IT Support",
+        "Technical Writing",
+        "Communication"
       ]
     }
   ],
